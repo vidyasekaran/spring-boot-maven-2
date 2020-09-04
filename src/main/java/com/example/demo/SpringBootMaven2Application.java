@@ -17,6 +17,7 @@ public class SpringBootMaven2Application {
 	}
 	
 	
+	
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootMaven2Application.class, args);
 	}
